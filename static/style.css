@@ -1,0 +1,12 @@
+body {
+    padding-top: 70px;
+  }
+
+  .graphLink {
+    background-color: yellow;
+  }
+
+  .viewGraphButton{
+    color:#0A58CD;
+    text-decoration: underline;
+  }
