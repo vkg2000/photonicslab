@@ -1,6 +1,6 @@
 const msalConfig = {
     auth: {
-      clientId: 'cbd4ec69-c747-4592-ae78-7d8d680d0428',
+      clientId: 'Zdu7Q~A6BsqcLHIJ5zD7vRbYgLj5eTo_j5.~.',
       redirectUri: 'http://localhost:8080'
     }
   };
