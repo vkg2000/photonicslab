@@ -1,7 +1,7 @@
 const msalConfig = {
     auth: {
       clientId: 'Zdu7Q~A6BsqcLHIJ5zD7vRbYgLj5eTo_j5.~.',
-      redirectUri: 'https://photonicslabiitbbs.netlify.app/'
+      redirectUri: 'https://625c7f7b4a0ab60008ed56bb--photonicslabiitbbs.netlify.app/'
     }
   };
   
