@@ -1,7 +1,8 @@
 const msalConfig = {
     auth: {
       clientId: 'Zdu7Q~A6BsqcLHIJ5zD7vRbYgLj5eTo_j5.~.',
-      redirectUri: 'http://localhost:8080/'
+      redirectUri: 'http://localhost:8080/',
+       navigateToLoginRequestUrl: false
     }
   };
   
