@@ -1,7 +1,7 @@
 const msalConfig = {
     auth: {
       clientId: 'Zdu7Q~A6BsqcLHIJ5zD7vRbYgLj5eTo_j5.~.',
-      redirectUri: 'https://photonicslab.herokuapp.com/',
+      redirectUri: 'https://www.youtube.com/',
        navigateToLoginRequestUrl: false
     }
   };
